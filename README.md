@@ -32,7 +32,7 @@ Welcome to **AI Travel Guru**, your ultimate travel recommendation tool!
 4. Select a country from the provided list.
 5. Explore the must-visit places along with brief descriptions.
 
-Technologies Used
+## Technologies Used
 🚀 Streamlit
 🚀 Python
 🚀 Langchain
